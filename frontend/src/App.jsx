@@ -3,7 +3,7 @@ import Webcam from 'react-webcam';
 import axios from 'axios';
 import './App.css';
 
-const API = 'http://localhost:8000';
+const API = 'https://sih-tribal-portal-2.onrender.com';
 
 // Helper: convert base64 to File
 const dataURLtoFile = (dataurl, filename) => {
