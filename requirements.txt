@@ -3,5 +3,3 @@ uvicorn
 python-multipart
 requests
 pydantic
-tf-keras
-deepface
